@@ -1,0 +1,35 @@
+/* - - - - - Footer - - -  */
+.footer {
+  /* margin-top: 0px; */
+  /* padding: 25px; */
+  height:37%;
+  background-color: gray;
+  color: white;
+  text-align: left;
+  bottom: 0px;
+  width: 100%;
+  position: inherit
+}
+
+.text{
+  color: whitesmoke;
+  margin-left: 5px
+}
+
+.link{
+  margin-bottom: 5px
+}
+
+.copyRight{
+  font-family: 'Mukata', sans-serif;
+  font-size: 16px;
+  color: blue
+}
+
+#Bottom{
+  margin-top: -7px
+}
+
+.footerTerm{
+  color: white
+}

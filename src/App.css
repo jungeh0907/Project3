@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+}
+
+body{
+  height: 100%;
+  background-color: lightgray
+}
+#root {
+  height: 100%;
+}
+
+.App {
+  position: relative;
+  height: 100%;
+}
+*:before,
+*:after,
+* {
+ box-sizing: border-box;
+}
+
